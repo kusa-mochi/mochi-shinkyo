@@ -1,27 +1,32 @@
 header {
   width: 100%;
   height: 150px;
-  background-color: #aaaaaa;
-}
-
-nav {
-  width: 100px;
-  height: 100%;
-  background-color: #888888;
-  float: left;
+  background-color: #ddffdd;
 }
 
 section {
-  width: 100%;
-  height: 500px;
-  background-color: #444444;
+  overflow: hidden;
+}
+
+nav {
+  width: 200px;
+  background-color: #aaeeaa;
   float: left;
+}
+
+article {
+  float: right;
+  width: 100%;
+  margin-left: -200px;
+  padding-left: 200px;
+  box-sizing: border-box;
+  background-color: #eeffee;
 }
 
 footer {
   width: 100%;
   height: 100px;
-  background-color: #777777;
+  background-color: #ddffdd;
   float: left;
 }
 
