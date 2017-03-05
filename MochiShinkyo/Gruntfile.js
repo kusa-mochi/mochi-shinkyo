@@ -8,7 +8,7 @@
                     style: 'compressed'
                 },
                 files: {
-                    'src/css/mochi_style.css': 'src/view/index.scss'
+                    'src/css/mochi_style.css': 'src/view/template/layout.scss'
                 }
             }
         },

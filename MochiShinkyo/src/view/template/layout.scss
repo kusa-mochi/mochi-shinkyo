@@ -2,6 +2,9 @@
 
 $menu_width: 200px;
 
+@import "navbar/navbar";
+@import "footer/footer";
+
 header {
     width: 100%;
     height: 150px;

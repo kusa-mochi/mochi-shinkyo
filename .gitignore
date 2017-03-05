@@ -5,3 +5,5 @@ sass/mochi_style.css.map
 .vs/
 MochiShinkyo/node_modules/
 MochiShinkyo/Web.config
+*.map
+MochiShinkyo/.sass-cache/
